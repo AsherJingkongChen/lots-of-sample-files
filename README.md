@@ -44,7 +44,8 @@ for (const file of Sample.files((type) => type.startsWith('image/'))) {
 
 ## Resources
 
-- [Media Type Resources](https://github.com/AsherJingkongChen/lots-of-sample-files/blob/main/docs/resources/media-type.md)
+- [Resources](https://github.com/AsherJingkongChen/lots-of-sample-files/blob/main/docs/resources.md)
+- [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 ## Let's Setup the Project
 
