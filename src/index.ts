@@ -54,7 +54,7 @@ export namespace Sample {
     filter?: (type: string) => boolean,
   ): Generator<{ path: string; type: string }> {
     const sampleDir = join(
-      fileURLToPath(import.meta.url),
+      dirname(fileURLToPath(import.meta.url)),
       '../resources/samples',
     );
     for (const path of _paths(sampleDir)) {
