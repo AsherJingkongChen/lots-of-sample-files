@@ -49,11 +49,11 @@
   },
   "scripts": {
     "build": "run-p _build check format",
-    "_build": "vite build --mode production",
     "check": "tsc",
     "dev-build": "vite build --mode development",
     "format": "prettier --write .",
-    "test": "vitest --run"
+    "test": "vitest --run",
+    "_build": "vite build --mode production"
   },
   "type": "module",
   "types": "./dist/index.d.ts"
