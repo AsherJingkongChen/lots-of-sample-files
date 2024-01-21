@@ -24,6 +24,9 @@ jobs:
       - id: build-package
         run: npm run build
 
+      - id: run-tests
+        run: npm run test
+
       - id: publish-package
         run: npm publish
         env:
