@@ -1,0 +1,43 @@
+name: auto-patch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  auto-patch:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - id: actions-checkout
+        uses: actions/checkout@v4
+
+      - id: setup-git-config
+        run: |
+          git config user.name 'AutoPatch'
+          git config user.email 'gpks556@gmail.com'
+
+      - id: setup-node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+
+      - id: install-dependencies
+        run: npm install
+
+      - id: build-package
+        run: npm run build
+
+      - id: run-tests
+        run: npm run test
+
+      - id: patch-version
+        run: npm version patch
+
+      - id: push-changes
+        run: git push && git push --tags
