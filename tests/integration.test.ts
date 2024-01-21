@@ -1,3 +1,4 @@
+// @ts-ignore
 import { Sample } from 'dist';
 import { describe, expect, it } from 'vitest';
 
