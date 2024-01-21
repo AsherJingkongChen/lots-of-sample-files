@@ -6,7 +6,7 @@
 
 ## What is it for?
 
-With `lots-of-sample-files`, You can get lots of sample files for experiments and testing in Node.js or Deno (should works).
+With `lots-of-sample-files`, You can get lots of sample files for experiments and testing in `Node.js` or `Deno` (should works).
 
 We've provided a simple API for you. You can obtain `lots-of-sample-files` from NPM. Please see the section ["How to Obtain"](#how-to-obtain).
 
@@ -44,7 +44,7 @@ for (const file of Sample.files((type) => type.startsWith('image/'))) {
 
 ## Resources
 
-- [Resources](https://github.com/AsherJingkongChen/lots-of-sample-files/blob/main/docs/resources.md)
+- [Resources](./docs/resources.md)
 - [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 ## Let's Setup the Project

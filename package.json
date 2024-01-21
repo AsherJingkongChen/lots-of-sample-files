@@ -27,6 +27,7 @@
   "files": [
     "LICENSE",
     "README.md",
+    "docs/resources.md",
     "dist",
     "resources",
     "package.json"
