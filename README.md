@@ -31,8 +31,8 @@ import { Sample } from 'lots-of-sample-files';
 const paths = [...Sample.paths()];
 const files = [...Sample.files()];
 
-for (const path of Sample.paths()) {
-  if (path.endsWith('.zip')) {
+for (const { path, type } of Sample.paths()) {
+  if (path.endsWith('.zip') || type === 'application/zip') {
     console.log(path);
   }
 }
