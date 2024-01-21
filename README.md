@@ -37,7 +37,7 @@ for (const path of Sample.paths()) {
   }
 }
 
-for (const file of Sample.files()) {
+for (const file of Sample.files((type) => type.startsWith('image/'))) {
   console.log(file.name, file.type);
 }
 ```
