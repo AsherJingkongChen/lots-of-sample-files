@@ -1,0 +1,59 @@
+{
+  "name": "lots-of-sample-files",
+  "version": "0.0.4",
+  "author": {
+    "name": "AsherJingkongChen"
+  },
+  "description": "Prepare lots of sample files for your experiments",
+  "devDependencies": {
+    "@types/node": "^20",
+    "@vitest/coverage-istanbul": "^1.2.0",
+    "iana-media-type": "^0.0.2",
+    "npm-run-all2": "^6.1.1",
+    "prettier": "^3.2.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.11",
+    "vite-plugin-dts": "^3.7.0",
+    "vitest": "^1.2.0"
+  },
+  "exports": {
+    ".": {
+      "default": "./dist/index.js",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "dist",
+    "resources",
+    "package.json"
+  ],
+  "homepage": "https://github.com/AsherJingkongChen/lots-of-sample-files/",
+  "keywords": [
+    "sample",
+    "sample-files",
+    "test",
+    "samples",
+    "file-sample"
+  ],
+  "license": "MIT",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsherJingkongChen/lots-of-sample-files.git"
+  },
+  "scripts": {
+    "build": "run-p _build check format",
+    "_build": "vite build --mode production",
+    "check": "tsc",
+    "dev-build": "vite build --mode development",
+    "format": "prettier --write .",
+    "test": "vitest --run"
+  },
+  "type": "module",
+  "types": "./dist/index.d.ts"
+}

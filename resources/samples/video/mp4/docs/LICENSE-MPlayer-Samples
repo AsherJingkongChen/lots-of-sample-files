@@ -1,0 +1,24 @@
+This is the MPlayer samples collection.
+You can find samples of various common and uncommon
+multimedia formats here. The size of the collection
+currently is 54GB and growing.
+
+You are free to download any samples you want, but
+if you want to download more than just a few or want
+to mirror the whole collection please send a mail to
+webmaster(AT)ffmpeg(DOT)org *before* you start
+and ask for permission.
+
+We can also ship the samples collection to you for a
+reasonable fee, inquire for details.
+
+The best way to download samples is with rsync. If you decide
+to fetch a large amount (more than 1GB), please limit the rate
+to no more than 50 kBps (use the --bwlimit option of rsync).
+
+Please be aware that this samples collection contains a lot
+of files that are very obscure, broken in various ways or
+are just simply out of use. Hence, it doesn't make sense
+to download all of them, unless you are developing a player
+application that will support all and every file format
+that was ever conceived.
