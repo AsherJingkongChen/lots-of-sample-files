@@ -1,7 +1,5 @@
 # Resources
 
-## Contents
-
 - [application/gzip](../resources/samples/application/gzip/docs/README.md)
 - [application/java](../resources/samples/application/java-archive/docs/README.md)
 - [application/pdf](../resources/samples/application/pdf/docs/README.md)
