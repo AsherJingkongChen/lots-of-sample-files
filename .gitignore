@@ -176,6 +176,9 @@ bun.lockb
 # Pnpm lockfile
 pnpm-lock.yaml
 
+# Npm lockfile
+package-lock.json
+
 # Keep all resources
 
 !/resources/**/*
