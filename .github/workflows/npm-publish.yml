@@ -1,0 +1,33 @@
+name: npm-publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  npm-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - id: actions-checkout
+        uses: actions/checkout@v4
+
+      - id: setup-node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+
+      - id: install-dependencies
+        run: npm install
+
+      - id: build-package
+        run: npm run build
+
+      - id: run-tests
+        run: npm run test
+
+      - id: publish-package
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
