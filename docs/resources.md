@@ -6,7 +6,7 @@
 - [application/vnd.openxmlformats-officedocument.presentationml.presentation](../resources/samples/application/vnd.openxmlformats-officedocument.presentationml.presentation/docs/README.md)
 - [application/vnd.openxmlformats-officedocument.spreadsheetml.sheet](../resources/samples/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet/docs/README.md)
 - [application/vnd.openxmlformats-officedocument.wordprocessingml](../resources/samples/application/vnd.openxmlformats-officedocument.wordprocessingml.document/docs/README.md)
-- [application/xml](../resources/samples/application/xml-dtd/docs/README.md)
+- [application/xml-dtd](../resources/samples/application/xml-dtd/docs/README.md)
 - [application/xml](../resources/samples/application/xml/docs/README.md)
 - [application/zip](../resources/samples/application/zip/docs/README.md)
 - [audio/mpeg](../resources/samples/audio/mpeg/docs/README.md)
