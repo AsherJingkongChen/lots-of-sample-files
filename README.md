@@ -10,6 +10,10 @@ With `lots-of-sample-files`, You can get lots of sample files for experiments an
 
 We've provided a simple API for you. You can obtain `lots-of-sample-files` from NPM. Please see the section ["How to Obtain"](#how-to-obtain).
 
+## Links for You
+
+- [Resources](./docs/resources/README.md)
+
 ## How to Obtain
 
 `lots-of-sample-files` provides an NPM package. You can install it with your favorite package managers, and then import it into your tests.
@@ -41,11 +45,6 @@ for (const file of Sample.files((type) => type.startsWith('image/'))) {
   console.log(file.name, file.type);
 }
 ```
-
-## Resources
-
-- [Resources](./docs/resources.md)
-- [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 ## Let's Setup the Project
 

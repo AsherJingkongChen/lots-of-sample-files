@@ -23,7 +23,7 @@ async function createSample(mediaType) {
   const sampleDir = join(resourcesDir, 'samples', mediaType);
   const docsDir = join(sampleDir, 'docs');
   const filesDir = join(sampleDir, 'files');
-  const templateDir = join(resourcesDir, 'archives/docs/template');
+  const templateDir = join(resourcesDir, 'archives/templates/template/docs');
 
   await mkdir(filesDir, { recursive: true });
   await cp(templateDir, docsDir, { recursive: true });
