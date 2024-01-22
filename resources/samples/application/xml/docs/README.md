@@ -12,12 +12,6 @@
 - Original Author(s): Asher Jingkong Chen
 - Created with: VSCode
 
-## [PD.2.i.big5.xml](../files/PD.2.i.big5.xml)
-
-- License: [CC0 1.0](./LICENSE.1.txt)
-- Original Author(s): Asher Jingkong Chen
-- Created with: VSCode
-
 ## [PD.3.e.utf-8.xml](../files/PD.3.e.utf-8.xml)
 
 - License: [CC0 1.0](./LICENSE.1.txt)
