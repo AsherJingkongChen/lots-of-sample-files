@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / application / vnd.openxmlformats-officedocument.wordprocessingml.document
+# [⎗](../../../../README.md) `application/vnd.openxmlformats-officedocument.wordprocessingml.document`
 
 ## [File-Samples.1.docx](../files/File-Samples.1.docx)
 

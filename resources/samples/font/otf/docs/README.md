@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / font / otf
+# [⎗](../../../../README.md) `font/otf`
 
 ## [OFL.1.cloud-convert-open-sans-latin-400-italic.otf](../files/OFL.1.cloud-convert-open-sans-latin-400-italic.otf)
 

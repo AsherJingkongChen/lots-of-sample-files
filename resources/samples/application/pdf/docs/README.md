@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / application / pdf
+# [⎗](../../../../README.md) `application/pdf`
 
 ## [Samples-Files.1.pdf](../files/Samples-Files.1.pdf)
 

@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / audio / mpeg
+# [⎗](../../../../README.md) `audio/mpeg`
 
 ## [PG.1.ID3v2-3-xFFxFB.mp3](../files/PG.1.ID3v2-3-xFFxFB.mp3)
 

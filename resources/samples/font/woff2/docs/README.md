@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / font / woff2
+# [⎗](../../../../README.md) `font/woff2`
 
 ## [OFL.1.open-sans-latin-400-italic.woff2](../files/OFL.1.open-sans-latin-400-italic.woff2)
 

@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / image / vnd.microsoft.icon
+# [⎗](../../../../README.md) `image/vnd.microsoft.icon`
 
 ## [PD.1.ICO-pink-48x48.ico](../files/PD.1.ICO-pink-48x48.ico)
 

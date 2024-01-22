@@ -1,4 +1,4 @@
-# [••](../../../../README.md) / text / html
+# [⎗](../../../../README.md) `text/html`
 
 ## [PD.1.minimal-without-quirks.htm](../files/PD.1.minimal-without-quirks.htm)
 

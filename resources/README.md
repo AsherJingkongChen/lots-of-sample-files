@@ -1,11 +1,11 @@
-# [••](../README.md) / Resources
+# [⎗](../README.md) Resources
 
 ## Samples
 
 All sample directory are named after [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 - [application/gzip](./samples/application/gzip/docs/README.md)
-- [application/java](./samples/application/java-archive/docs/README.md)
+- [application/java-archive](./samples/application/java-archive/docs/README.md)
 - [application/pdf](./samples/application/pdf/docs/README.md)
 - [application/vnd.openxmlformats-officedocument.presentationml.presentation](./samples/application/vnd.openxmlformats-officedocument.presentationml.presentation/docs/README.md)
 - [application/vnd.openxmlformats-officedocument.spreadsheetml.sheet](./samples/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet/docs/README.md)
