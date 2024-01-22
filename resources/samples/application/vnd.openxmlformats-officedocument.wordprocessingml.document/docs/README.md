@@ -13,7 +13,7 @@
 - Original Author: FileSamples
 - Modified:
   - by AsherJingkongChen
-  - with Info-ZIP unzip and zip:
+  - with Info-ZIP unzip (v6.0) and zip (v3.0):
     - `unzip -d dir File-Samples.1.docx`
     - `cp -r dir dis`
     - `cd dis`

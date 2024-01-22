@@ -16,14 +16,14 @@
 
 ## [MPEG-FFC.3.ftypiso5.mp4](../files/MPEG-FFC.3.ftypiso5.mp4)
 
-- License: Clear BSD, No Copyright
+- License: Clear BSD
 - Original Author: Unknown
 - References and Sources:
   - [MPEG File Format Conformance Framework](https://mpeggroup.github.io/FileFormatConformance/files/published/isobmff/21_segment.mp4)
 
 ## [MPEG-FFC.4.ftypavc1.mp4](../files/MPEG-FFC.4.ftypavc1.mp4)
 
-- License: Clear BSD, No Copyright
+- License: Clear BSD
 - Original Author: Unknown
 - References and Sources:
   - [MPEG File Format Conformance Framework](https://mpeggroup.github.io/FileFormatConformance/files/published/nalu/mvc/DDF_10s_25fps.mp4)

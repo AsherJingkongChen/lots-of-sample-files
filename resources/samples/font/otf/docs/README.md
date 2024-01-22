@@ -6,7 +6,7 @@
 - Original Author: The Open Sans Project Authors
 - Modified:
   - by AsherJingkongChen
-  - with CloudConvert to convert TTF files to OTF
+  - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)
   - [Fontsource](https://api.fontsource.org/v1/download/open-sans)
@@ -17,7 +17,7 @@
 - Original Author: The Open Sans Project Authors
 - Modified:
   - by AsherJingkongChen
-  - with CloudConvert to convert TTF files to OTF
+  - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)
   - [Fontsource](https://api.fontsource.org/v1/download/open-sans)
@@ -28,7 +28,7 @@
 - Original Author: The Open Sans Project Authors
 - Modified:
   - by AsherJingkongChen
-  - with CloudConvert to convert TTF files to OTF
+  - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)
   - [Fontsource](https://api.fontsource.org/v1/download/open-sans)

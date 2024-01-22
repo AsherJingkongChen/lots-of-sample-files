@@ -13,7 +13,7 @@
 - Original Author: Sean Leary
 - Modified:
   - by AsherJingkongChen
-  - with Info-ZIP unzip and zip:
+  - with Info-ZIP unzip (v6.0) and zip (v3.0):
     - `unzip -d dir PD.1.json-20231013.zip`
     - `cp -r dir dis`
     - `cd dis`
@@ -28,7 +28,7 @@
 - Original Author: Sean Leary
 - Modified:
   - by AsherJingkongChen
-  - with Info-ZIP zip:
+  - with Info-ZIP zip (v3.0):
     - `unzip -d dir PD.1.json-20231013.zip`
     - `cp -r dir dis`
     - `cd dis`
@@ -43,13 +43,13 @@
 
 - License: Public Domain
 - Original Author: AsherJingkongChen
-- Created with: Info-ZIP unzip and zip
+- Created with: Info-ZIP unzip (v6.0) and zip (v3.0)
   - `zip -9r PD.4.zip PD.4`
 
 ## [PD.5.empty.zip](../files/PD.5.empty.zip)
 
 - License: Public Domain
 - Original Author: AsherJingkongChen
-- Created with: Info-ZIP zip
+- Created with: Info-ZIP zip (v3.0)
   - `zip PD.5.empty.zip PD.5.empty`
   - `zip -d PD.5.empty.zip PD.5.empty`

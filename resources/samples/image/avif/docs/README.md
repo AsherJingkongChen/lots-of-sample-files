@@ -6,7 +6,7 @@
 - Original Author: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center
 - Modified:
   - by AsherJingkongChen
-  - with Squoosh to convert to `Browser JPEG` then to `AVIF`
+  - with Squoosh (v1.12.0) to convert to `Browser JPEG` then to `AVIF`
     - Browser JPEG:
       - Quality: `12`
     - AVIF:

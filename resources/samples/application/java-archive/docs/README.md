@@ -13,7 +13,7 @@
 - Original Author: Sean Leary
 - Modified:
   - by AsherJingkongChen
-  - with Info-ZIP unzip and zip:
+  - with Info-ZIP unzip (v6.0) and zip (v3.0):
     - `unzip -d dir PD.1.json-20231013.jar`
     - `cp -r dir dis`
     - `cd dis`

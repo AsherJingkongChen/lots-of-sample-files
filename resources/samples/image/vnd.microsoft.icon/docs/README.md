@@ -4,6 +4,6 @@
 
 - License: Public Domain
 - Original Author: AsherJingkongChen
-- Created with: favicon.io favicon generator (from text)
+- Created with: favicon.io favicon generator from text (2024)
 - References and Sources:
   - [favicon.io](https://favicon.io/favicon-generator/)
