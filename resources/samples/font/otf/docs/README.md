@@ -2,10 +2,10 @@
 
 ## [OFL.1.cloud-convert-open-sans-latin-400-italic.otf](../files/OFL.1.cloud-convert-open-sans-latin-400-italic.otf)
 
-- License: SIL Open Font License v1.1
+- License: [SIL Open Font License v1.1](./LICENSE)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
-  - by AsherJingkongChen
+  - by Asher Jingkong Chen
   - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)
@@ -13,10 +13,10 @@
 
 ## [OFL.2.cloud-convert-open-sans-latin-400-normal.otf](../files/OFL.2.cloud-convert-open-sans-latin-400-normal.otf)
 
-- License: SIL Open Font License v1.1
+- License: [SIL Open Font License v1.1](./LICENSE)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
-  - by AsherJingkongChen
+  - by Asher Jingkong Chen
   - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)
@@ -24,10 +24,10 @@
 
 ## [OFL.3.cloud-convert-open-sans-latin-700-normal.otf](../files/OFL.3.cloud-convert-open-sans-latin-700-normal.otf)
 
-- License: SIL Open Font License v1.1
+- License: [SIL Open Font License v1.1](./LICENSE)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
-  - by AsherJingkongChen
+  - by Asher Jingkong Chen
   - with CloudConvert (2024) to convert TTF files to OTF
 - References and Sources:
   - [CloudConvert](https://cloudconvert.com/ttf-to-otf)

@@ -2,13 +2,13 @@
   "name": "lots-of-sample-files",
   "version": "0.0.7",
   "author": {
-    "name": "AsherJingkongChen"
+    "name": "Asher Jingkong Chen"
   },
   "description": "Prepare lots of sample files for your experiments",
   "devDependencies": {
     "@types/node": "^20",
     "@vitest/coverage-istanbul": "^1.2.0",
-    "iana-media-type": "^0.0.2",
+    "iana-media-type": "^0.0.10",
     "npm-run-all2": "^6.1.1",
     "prettier": "^3.2.0",
     "typescript": "^5.3.3",

@@ -2,10 +2,10 @@
 
 ## [](../files/)
 
-- License: Public Domain
-- Original Author(s): AsherJingkongChen
+- License: [CC0 1.0](./LICENSE)
+- Original Author(s): Asher Jingkong Chen
 - Modified:
-  - by AsherJingkongChen
+  - by Asher Jingkong Chen
   - with :
     - 
 - Created with: 
