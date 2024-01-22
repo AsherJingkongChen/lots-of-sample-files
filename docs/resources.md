@@ -1,4 +1,4 @@
-# [`../`](../README.md)`Resources`
+# [../](../README.md)Resources
 
 - [application/gzip](../resources/samples/application/gzip/docs/README.md)
 - [application/java](../resources/samples/application/java-archive/docs/README.md)
