@@ -1,4 +1,4 @@
-# `application/gzip`
+# [`../`](../../../../../docs/resources.md)`application/gzip`
 
 ## [PD.1.tar.gz](../files/PD.1.tar.gz)
 
