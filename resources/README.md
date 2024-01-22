@@ -1,6 +1,6 @@
 # [⎗](../README.md) Resources
 
-## Samples
+### Samples
 
 All sample directory are named after [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
