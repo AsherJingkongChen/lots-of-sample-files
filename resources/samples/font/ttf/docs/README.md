@@ -1,4 +1,4 @@
-# `font/ttf`
+# [••](../../../../README.md) / font / ttf
 
 ## [OFL.1.open-sans-latin-400-italic.ttf](../files/OFL.1.open-sans-latin-400-italic.ttf)
 

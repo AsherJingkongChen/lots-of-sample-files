@@ -1,4 +1,4 @@
-# `image/apng`
+# [••](../../../../README.md) / image / apng
 
 ## [PD.1.beach-ball.apng](../files/PD.1.beach-ball.apng)
 

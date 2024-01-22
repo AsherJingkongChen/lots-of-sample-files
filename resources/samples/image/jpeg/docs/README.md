@@ -1,4 +1,4 @@
-# `image/jpeg`
+# [••](../../../../README.md) / image / jpeg
 
 ## [File-Samples.1.JFIF.jpeg](../files/File-Samples.1.JFIF.jpeg)
 
