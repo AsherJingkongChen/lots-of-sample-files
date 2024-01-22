@@ -12,7 +12,7 @@ We've provided a simple API for you. You can obtain `lots-of-sample-files` from 
 
 ## Links for You
 
-- [Resources](./docs/resources/README.md)
+- [Resources](./resources/README.md)
 
 ## How to Obtain
 

@@ -1,4 +1,4 @@
-# [..](../../../../../docs/resources/README.md) / /
+# [..](../../../../README.md) / /
 
 ## [](../files/)
 

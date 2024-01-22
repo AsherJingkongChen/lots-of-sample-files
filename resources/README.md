@@ -1,4 +1,4 @@
-# [..](../../README.md) / Resources
+# [..](../README.md) / Resources
 
 ## Samples
 
