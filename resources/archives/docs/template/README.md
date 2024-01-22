@@ -3,7 +3,7 @@
 ## [](../files/)
 
 - License: Public Domain
-- Original Author: AsherJingkongChen
+- Original Author(s): AsherJingkongChen
 - Modified:
   - by AsherJingkongChen
   - with :
