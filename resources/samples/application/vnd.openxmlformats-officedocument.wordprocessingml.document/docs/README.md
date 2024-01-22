@@ -2,14 +2,14 @@
 
 ## [File-Samples.1.docx](../files/File-Samples.1.docx)
 
-- License: [FileSamples](./LICENSE)
+- License: [FileSamples](./LICENSE.txt)
 - Original Author(s): FileSamples
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/document/docx/sample2.docx)
 
 ## [File-Samples.2.rezip.docx](../files/File-Samples.2.rezip.docx)
 
-- License: [FileSamples](./LICENSE)
+- License: [FileSamples](./LICENSE.txt)
 - Original Author(s): FileSamples
 - Modified:
   - by Asher Jingkong Chen

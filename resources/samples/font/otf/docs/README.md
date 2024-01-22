@@ -2,7 +2,7 @@
 
 ## [OFL.1.cloud-convert-open-sans-latin-400-italic.otf](../files/OFL.1.cloud-convert-open-sans-latin-400-italic.otf)
 
-- License: [SIL Open Font License v1.1](./LICENSE)
+- License: [SIL Open Font License v1.1](./LICENSE.txt)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
   - by Asher Jingkong Chen
@@ -13,7 +13,7 @@
 
 ## [OFL.2.cloud-convert-open-sans-latin-400-normal.otf](../files/OFL.2.cloud-convert-open-sans-latin-400-normal.otf)
 
-- License: [SIL Open Font License v1.1](./LICENSE)
+- License: [SIL Open Font License v1.1](./LICENSE.txt)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
   - by Asher Jingkong Chen
@@ -24,7 +24,7 @@
 
 ## [OFL.3.cloud-convert-open-sans-latin-700-normal.otf](../files/OFL.3.cloud-convert-open-sans-latin-700-normal.otf)
 
-- License: [SIL Open Font License v1.1](./LICENSE)
+- License: [SIL Open Font License v1.1](./LICENSE.txt)
 - Original Author(s): The Open Sans Project Authors
 - Modified:
   - by Asher Jingkong Chen

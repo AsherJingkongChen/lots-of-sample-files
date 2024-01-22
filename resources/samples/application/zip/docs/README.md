@@ -2,14 +2,14 @@
 
 ## [PD.1.json-20231013.zip](../files/PD.1.json-20231013.zip)
 
-- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0)
+- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0.txt)
 - Original Author(s): Sean Leary
 - References and Sources:
   - [Maven - org.json](https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar)
 
 ## [PD.2.json-split.z01](../files/PD.2.json-split.z01)
 
-- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0)
+- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0.txt)
 - Original Author(s): Sean Leary
 - Modified:
   - by Asher Jingkong Chen
@@ -24,7 +24,7 @@
 
 ## [PD.3.json-split-fixed.zip](../files/PD.3.json-split-fixed.zip)
 
-- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0)
+- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0.txt)
 - Original Author(s): Sean Leary
 - Modified:
   - by Asher Jingkong Chen
@@ -41,14 +41,14 @@
 
 ## [PD.4.zip](../files/PD.4.zip)
 
-- License: [CC0 1.0](./LICENSE-CC0)
+- License: [CC0 1.0](./LICENSE-CC0.txt)
 - Original Author(s): Asher Jingkong Chen
 - Created with: Info-ZIP unzip (v6.0) and zip (v3.0)
   - `zip -9r PD.4.zip PD.4`
 
 ## [PD.5.empty.zip](../files/PD.5.empty.zip)
 
-- License: [CC0 1.0](./LICENSE-CC0)
+- License: [CC0 1.0](./LICENSE-CC0.txt)
 - Original Author(s): Asher Jingkong Chen
 - Created with: Info-ZIP zip (v3.0)
   - `zip PD.5.empty.zip PD.5.empty`
