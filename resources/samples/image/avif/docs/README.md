@@ -2,7 +2,7 @@
 
 ## [PD.1.avif](../files/PD.1.avif)
 
-- License: [Public Domain, CC0 1.0](./LICENSE.txt)
+- License: [Public Domain, CC0 1.0](./LICENSE.1.txt)
 - Original Author(s): Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center
 - Modified:
   - by Asher Jingkong Chen

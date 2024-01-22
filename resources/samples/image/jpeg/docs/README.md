@@ -2,14 +2,14 @@
 
 ## [File-Samples.1.JFIF.jpeg](../files/File-Samples.1.JFIF.jpeg)
 
-- License: [FileSamples](./LICENSE-FileSamples.txt)
+- License: [FileSamples](./LICENSE.1.txt)
 - Original Author(s): FileSamples
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/image/jfif/sample1.jfif)
 
 ## [PD.2.JFIF.jpe](../files/PD.2.JFIF.jpe)
 
-- License: [Public Domain, CC0 1.0](./LICENSE-PD-CC0.txt)
+- License: [Public Domain, CC0 1.0](./LICENSE.2.txt)
 - Original Author(s): Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center
 - Modified:
   - by Asher Jingkong Chen
@@ -21,14 +21,14 @@
 
 ## [File-Samples.3.JFIF.jfif](../files/File-Samples.3.JFIF.jfif)
 
-- License: [FileSamples](./LICENSE-FileSamples.txt)
+- License: [FileSamples](./LICENSE.1.txt)
 - Original Author(s): FileSamples
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/image/jpe/sample_640%C3%97426.jpe)
 
 ## [PD.4.Exif.jpg](../files/PD.4.Exif.jpg)
 
-- License: [CC0 1.0](./LICENSE-CC0.txt)
+- License: [CC0 1.0](./LICENSE.3.txt)
 - Original Author(s): Julioramosgie
 - References and Sources:
   - [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b1/%C3%81lbum_de_compila%C3%A7%C3%A3o_de_Melim.jpg)
