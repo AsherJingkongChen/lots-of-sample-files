@@ -13,8 +13,8 @@
 - Original Author(s): Sam Ehrlich, Louis Atz, and Eugene Jaudas
 - Modified:
   - by Asher Jingkong Chen
-  - with POSIX dd to strip the ID3v2 tag:
-    - `dd bs=1024 skip=1 if=PG.1.ID3v2-3-xFFxFB.mp3 of=PG.2.ID3v1-0-xFFxFB.mp3`
+  - with POSIX dd to extract the last seconds of the audio file:
+    - `dd bs=1618213 skip=1 if=PG.1.ID3v2-3-xFFxFB.mp3 of=PG.2.ID3v1-0-xFFxFB.mp3`
 - References and Sources:
   - [Project Gutenberg](https://www.gutenberg.org/files/10284/10284-m/10284-m-001.mp3)
 
