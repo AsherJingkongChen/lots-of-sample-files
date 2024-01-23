@@ -28,8 +28,8 @@
     "LICENSE",
     "README.md",
     "dist",
-    "resources",
-    "package.json"
+    "package.json",
+    "resources"
   ],
   "homepage": "https://asherjingkongchen.github.io/lots-of-sample-files/",
   "keywords": [
