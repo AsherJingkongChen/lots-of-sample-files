@@ -1,7 +1,7 @@
 // @ts-ignore
 import { Sample } from 'dist/index';
 import { describe, expect, it } from 'vitest';
-import { mediaTypes } from 'iana-media-type';
+import mediaTypes from 'iana-media-type';
 
 describe('Sample.files()', () => {
   it('All the results are readable', async () => {

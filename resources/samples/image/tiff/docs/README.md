@@ -1,14 +1,15 @@
-# [⎗](../../../../README.md) `/`
+# [⎗](../../../../README.md) `image/tiff`
 
-## [](../files/)
+## [File-Samples.1.dng](../files/File-Samples.1.dng)
 
-- License: [CC0 1.0](./LICENSE.1.txt)
-- Original Author(s): Asher Jingkong Chen
-- Modified:
-  - by Asher Jingkong Chen
-  - with :
-    - 
-- Created with: 
-  - 
+- License: [FileSamples](./LICENSE.1.txt)
+- Original Author(s): FileSamples
 - References and Sources:
-  - 
+  - [FileSamples](https://filesamples.com/samples/image/dng/sample1.dng)
+
+## [File-Samples.2.tiff](../files/File-Samples.2.tiff)
+
+- License: [FileSamples](./LICENSE.1.txt)
+- Original Author(s): FileSamples
+- References and Sources:
+  - [FileSamples](https://filesamples.com/samples/image/tiff/sample_640%C3%97426.tiff)

@@ -1,14 +1,8 @@
-# [⎗](../../../../README.md) `/`
+# [⎗](../../../../README.md) `image/bmp`
 
-## [](../files/)
+## [File-Samples.1.bmp](../files/File-Samples.1.bmp)
 
-- License: [CC0 1.0](./LICENSE.1.txt)
-- Original Author(s): Asher Jingkong Chen
-- Modified:
-  - by Asher Jingkong Chen
-  - with :
-    - 
-- Created with: 
-  - 
+- License: [FileSamples](./LICENSE.1.txt)
+- Original Author(s): FileSamples
 - References and Sources:
-  - 
+  - [FileSamples](https://filesamples.com/samples/image/bmp/sample_640%C3%97426.bmp)
