@@ -1,0 +1,5 @@
+Oleg Alexandrov, the copyright holder of this work, release this work into the public domain. This applies worldwide.
+In some countries this may not be legally possible; if so:
+I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+
+This work by Oleg Alexandrov is relicensed with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
