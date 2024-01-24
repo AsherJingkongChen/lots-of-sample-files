@@ -1,6 +1,6 @@
 # [⎗](../../../../README.md) `image/vnd.microsoft.icon`
 
-## [PD.1.ICO-pink-48x48.ico](../files/PD.1.ICO-pink-48x48.ico)
+## [CC0.1.ICO-pink-48x48.ico](../files/CC0.1.ICO-pink-48x48.ico)
 
 - License: [CC0 1.0](./LICENSE.1.txt)
 - Original Author(s): Asher Jingkong Chen

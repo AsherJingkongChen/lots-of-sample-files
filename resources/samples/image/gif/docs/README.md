@@ -7,7 +7,7 @@
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/image/gif/sample_640%C3%97426.gif)
 
-## [PD.2.animated.gif](../files/PD.2.animated.gif)
+## [CC0.2.animated.gif](../files/CC0.2.animated.gif)
 
 - License: [Public Domain, CC0 1.0](./LICENSE.2.txt)
 - Original Author(s): Oleg Alexandrov

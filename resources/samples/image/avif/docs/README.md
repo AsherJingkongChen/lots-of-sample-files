@@ -1,6 +1,6 @@
 # [⎗](../../../../README.md) `image/avif`
 
-## [PD.1.avif](../files/PD.1.avif)
+## [CC0.1.avif](../files/CC0.1.avif)
 
 - License: [Public Domain, CC0 1.0](./LICENSE.1.txt)
 - Original Author(s): Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center

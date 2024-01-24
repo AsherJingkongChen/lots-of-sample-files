@@ -7,7 +7,7 @@
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/image/jfif/sample1.jfif)
 
-## [PD.2.JFIF.jpe](../files/PD.2.JFIF.jpe)
+## [CC0.2.JFIF.jpe](../files/CC0.2.JFIF.jpe)
 
 - License: [Public Domain, CC0 1.0](./LICENSE.2.txt)
 - Original Author(s): Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center
@@ -26,7 +26,7 @@
 - References and Sources:
   - [FileSamples](https://filesamples.com/samples/image/jpe/sample_640%C3%97426.jpe)
 
-## [PD.4.Exif.jpg](../files/PD.4.Exif.jpg)
+## [CC0.4.Exif.jpg](../files/CC0.4.Exif.jpg)
 
 - License: [CC0 1.0](./LICENSE.3.txt)
 - Original Author(s): Julioramosgie
