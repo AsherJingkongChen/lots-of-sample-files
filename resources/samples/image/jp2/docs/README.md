@@ -13,4 +13,3 @@
 - Original Author(s): Johan van der Knijff
 - References and Sources:
   - [Open Preservation Foundation - format-corpus](https://github.com/openpreserve/format-corpus/raw/c5d18a71b8b65807d98191490fd691555419bc3a/jp2k-formats/balloon.jp2)
-  

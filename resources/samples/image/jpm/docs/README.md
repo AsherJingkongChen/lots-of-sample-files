@@ -1,6 +1,6 @@
 # [⎗](../../../../README.md) `image/jpm`
 
-## [CC0.1.jpm](../files/CC0.1.jpm)
+## [CC0.1.balloon.jpm](../files/CC0.1.balloon.jpm)
 
 - License: [CC0 1.0](./LICENSE.1.txt)
 - Original Author(s): Johan van der Knijff
