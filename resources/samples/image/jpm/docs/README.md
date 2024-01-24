@@ -1,11 +1,8 @@
-# [⎗](../../../../README.md) `/`
+# [⎗](../../../../README.md) `image/jpm`
 
-## [](../files/)
+## [CC0.1.jpm](../files/CC0.1.jpm)
 
 - License: [CC0 1.0](./LICENSE.1.txt)
-- Original Author(s): Asher Jingkong Chen
-- Modified:
-  - by Asher Jingkong Chen
-  - ## with :
-- ## Created with:
-- ## References and Sources:
+- Original Author(s): Johan van der Knijff
+- References and Sources:
+  - [Open Preservation Foundation - format-corpus](https://github.com/openpreserve/format-corpus/raw/c5d18a71b8b65807d98191490fd691555419bc3a/jp2k-formats/balloon.jpm)
