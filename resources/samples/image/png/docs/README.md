@@ -1,8 +1,8 @@
 # [⎗](../../../../README.md) `image/png`
 
-## [File-Samples.1.HD.png](../files/File-Samples.1.HD.png)
+## [Samples-Files.1.png](../files/Samples-Files.1.png)
 
-- License: [FileSamples](./LICENSE.1.txt)
-- Original Author(s): FileSamples
+- License: [Samples Files](./LICENSE.1.txt)
+- Original Author(s): Samples Files
 - References and Sources:
-  - [FileSamples](https://filesamples.com/samples/image/png/sample_1280%C3%97853.png)
+  - [Samples Files](https://samples-files.com/samples/Images/png/480-360-sample.png)
