@@ -6,7 +6,7 @@
 - Original Author(s): Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center
 - Modified:
   - by Asher Jingkong Chen
-  - with Squoosh (v1.12.0) to convert to `Browser JPEG` then to `AVIF`
+  - with Squoosh (v1.12.0) to convert to `Browser JPEG` then to `AVIF`:
     - Browser JPEG:
       - Quality: `12`
     - AVIF:
@@ -22,7 +22,7 @@
 - Original Author(s): Holger Will
 - Modified:
   - by Asher Jingkong Chen
-  - with FFmpeg (v6.1.1) to convert to AVIF image sequence
+  - with FFmpeg (v6.1.1) to convert to AVIF image sequence:
     - `ffmpeg -i CC0.1.beach-ball.apng CC0.2.beach-ball.avif`
 - References and Sources:
   - [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/archive/1/14/20130624220322%21Animated_PNG_example_bouncing_beach_ball.png)
@@ -34,7 +34,7 @@
 - Original Author(s): Holger Will
 - Modified:
   - by Asher Jingkong Chen
-  - with FFmpeg (v6.1.1) to convert to AVIF image sequence
+  - with FFmpeg (v6.1.1) to convert to AVIF image sequence:
     - `ffmpeg -i CC0.1.beach-ball.apng CC0.2.beach-ball.avif`
     - `mv CC0.2.beach-ball.avif CC0.2.beach-ball.avifs`
 - References and Sources:

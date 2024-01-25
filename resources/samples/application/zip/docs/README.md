@@ -13,7 +13,7 @@
 - Original Author(s): Sean Leary
 - Modified:
   - by Asher Jingkong Chen
-  - with Info-ZIP unzip (v6.0) and zip (v3.0):
+  - with Info-ZIP unzip (v6.0) and zip (v3.0) to re-zip:
     - `unzip -d dir CC0.1.json-20231013.zip`
     - `cp -r dir dis`
     - `cd dis`
@@ -28,7 +28,7 @@
 - Original Author(s): Sean Leary
 - Modified:
   - by Asher Jingkong Chen
-  - with Info-ZIP zip (v3.0):
+  - with Info-ZIP unzip (v6.0) and zip (v3.0) to re-zip and fix:
     - `unzip -d dir CC0.1.json-20231013.zip`
     - `cp -r dir dis`
     - `cd dis`

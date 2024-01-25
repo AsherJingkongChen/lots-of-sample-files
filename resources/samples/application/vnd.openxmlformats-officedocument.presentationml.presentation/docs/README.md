@@ -13,7 +13,7 @@
 - Original Author(s): Samples Files
 - Modified:
   - by Asher Jingkong Chen
-  - with Info-ZIP unzip (v6.0) and zip (v3.0):
+  - with Info-ZIP unzip (v6.0) and zip (v3.0) to re-zip:
     - `unzip -d dir Samples-Files.1.pptx`
     - `cp -r dir dis`
     - `cd dis`
