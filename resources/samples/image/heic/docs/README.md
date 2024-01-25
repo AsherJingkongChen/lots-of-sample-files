@@ -1,8 +1,8 @@
 # [⎗](../../../../README.md) `image/heic`
 
-## [File-Samples.1.heic](../files/File-Samples.1.heic)
+## [File-Samples-Hub.1.heic](../files/File-Samples-Hub.1.heic)
 
-- License: [FileSamples](./LICENSE.1.txt)
-- Original Author(s): FileSamples
+- License: [FileSamplesHub](./LICENSE.1.txt)
+- Original Author(s): FileSamplesHub
 - References and Sources:
-  - [FileSamples](https://filesamples.com/samples/image/heif/sample1.heif)
+  - [FileSamplesHub](https://filesampleshub.com/download/image/heic/sample2.heic)
