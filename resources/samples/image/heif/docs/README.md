@@ -5,4 +5,4 @@
 - License: [FileSamples](./LICENSE.1.txt)
 - Original Author(s): FileSamples
 - References and Sources:
-  - [FileSamples](https://filesamples.com/samples/image/heif/sample1.heif)
+  - [FileSamples](https://filesamples.com/samples/image/heic/sample1.heic)
