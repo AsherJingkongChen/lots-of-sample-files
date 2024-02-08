@@ -43,7 +43,7 @@ export namespace Sample {
    * Walk through all the files in the sample directory
    *
    * ## Parameters
-   * - `filter` - `(type: string) => boolean`
+   * - `filter`: `(type: string) => boolean`
    *   + A function to filter paths by media types
    *
    * ## Results
@@ -79,7 +79,7 @@ export namespace Sample {
    * Walk through all the files in the sample directory
    *
    * ## Parameters
-   * - `filter` - `(type: string) => boolean`
+   * - `filter`: `(type: string) => boolean`
    *   + A function to filter files by media types
    *
    * ## Results
