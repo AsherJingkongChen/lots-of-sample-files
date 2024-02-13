@@ -22,9 +22,9 @@ export namespace Sample {
    * ## Introduction
    * Walk through all the files in the directory `dir`
    *
-   * ## Results
-   * - `Generator<string>`
-   *   + file paths
+   * ## Yields
+   * - `string`
+   *   + A file path
    */
   function* _paths(dir: string): Generator<string> {
     const entries = readdirSync(dir, { withFileTypes: true });
@@ -40,15 +40,15 @@ export namespace Sample {
 
   /**
    * ## Introduction
-   * Walk through all the files in the sample directory
+   * Walk through all the sample files
    *
    * ## Parameters
    * - `filter`: `(type: string) => boolean`
    *   + A function to filter paths by media types
    *
-   * ## Results
-   * - `Generator<{ path: string; type: string }>`
-   *   + paths and media types
+   * ## Yields
+   * - `{ path: string; type: string }`
+   *   + A sample file path and its media type
    */
   export function* paths(
     filter?: (type: string) => boolean,
@@ -76,15 +76,15 @@ export namespace Sample {
 
   /**
    * ## Introduction
-   * Walk through all the files in the sample directory
+   * Walk through all the sample files
    *
    * ## Parameters
    * - `filter`: `(type: string) => boolean`
    *   + A function to filter files by media types
    *
-   * ## Results
-   * - `Generator<File>`
-   *   + file references
+   * ## Yields
+   * - `File`
+   *   + A sample file reference
    *     - `File.type` - The media type is pre-determined manually
    */
   export function* files(filter?: (type: string) => boolean): Generator<File> {
