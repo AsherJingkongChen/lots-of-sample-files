@@ -28,6 +28,14 @@ export default defineConfig((env) => ({
         functions: 100,
       },
     },
+    fileParallelism: false,
+    maxConcurrency: 1,
+    pool: 'forks',
+    poolOptions: {
+      forks: {
+        singleFork: true,
+      },
+    },
     include: ['tests/**/*.test.ts'],
   },
 }));
